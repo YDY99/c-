@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lectures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|solutionrelative:c pulsplus project\\lectures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zaqxs\\AppData\\Local\\Temp\\f0b60445-7d0b-4dc0-9eaf-abeb0827a76c_CPlusPlusStudy-main (4).zip.76c\\CPlusPlusStudy-main\\RPGBattleSystem\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3A9E65-B7AC-421F-936D-E312910EBBE7}|RPG battle system\\RPG battle system.vcxproj|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\RPG battle system\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F3A9E65-B7AC-421F-936D-E312910EBBE7}|RPG battle system\\RPG battle system.vcxproj|solutionrelative:RPG battle system\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zaqxs\\AppData\\Local\\Temp\\daeb5acd-1c5c-4895-a160-29ad1f5c6467_CPlusPlusStudy-main (4).zip.467\\CPlusPlusStudy-main\\RPGBattleSystem\\GameObjects.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3A9E65-B7AC-421F-936D-E312910EBBE7}|RPG battle system\\RPG battle system.vcxproj|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\RPG battle system\\GAME object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F3A9E65-B7AC-421F-936D-E312910EBBE7}|RPG battle system\\RPG battle system.vcxproj|solutionrelative:RPG battle system\\GAME object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3A9E65-B7AC-421F-936D-E312910EBBE7}|RPG battle system\\RPG battle system.vcxproj|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\RPG battle system\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F3A9E65-B7AC-421F-936D-E312910EBBE7}|RPG battle system\\RPG battle system.vcxproj|solutionrelative:RPG battle system\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zaqxs\\AppData\\Local\\Temp\\9f7d2492-f69c-428b-9587-27849ef4da68_CPlusPlusStudy-main (4).zip.a68\\CPlusPlusStudy-main\\RPGBattleSystem\\GameObjects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zaqxs\\AppData\\Local\\Temp\\34d7e33c-3d05-4004-ac6f-3277a9ea833b_CPlusPlusStudy-main (4).zip.33b\\CPlusPlusStudy-main\\CplusplusProject\\lecture13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3A9E65-B7AC-421F-936D-E312910EBBE7}|RPG battle system\\RPG battle system.vcxproj|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\RPG battle system\\RPG battle system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F3A9E65-B7AC-421F-936D-E312910EBBE7}|RPG battle system\\RPG battle system.vcxproj|solutionrelative:RPG battle system\\RPG battle system.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|solutionrelative:c pulsplus project\\lecture12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lectures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|solutionrelative:c pulsplus project\\lectures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|solutionrelative:c pulsplus project\\lecture13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|solutionrelative:c pulsplus project\\lecture10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zaqxs\\AppData\\Local\\Temp\\4ab1b377-6083-4977-b9cd-131da4f415b3_CPlusPlusStudy-main (4).zip.5b3\\CPlusPlusStudy-main\\CplusplusProject\\lecture12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|solutionrelative:c pulsplus project\\lecture11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zaqxs\\AppData\\Local\\Temp\\c0bebcfb-9d11-4a6d-839c-3ed927b797a0_CPlusPlusStudy-main (4).zip.7a0\\CPlusPlusStudy-main\\CplusplusProject\\lecture11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zaqxs\\AppData\\Local\\Temp\\3940d701-8688-4685-9015-8aae3e2e6078_CPlusPlusStudy-main (4).zip.078\\CPlusPlusStudy-main\\CplusplusProject\\lecture10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zaqxs\\AppData\\Local\\Temp\\8b4892d4-b4ac-4fa3-86bb-618fa150d26e_CPlusPlusStudy-main (3).zip.26e\\CPlusPlusStudy-main\\CplusplusProject\\lecture9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|solutionrelative:c pulsplus project\\lecture9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|solutionrelative:c pulsplus project\\lecture5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40B8716-7C70-4B9C-A144-93B3A9DE18B0}|Console text\\Console text.vcxproj|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\Console text\\Console text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E40B8716-7C70-4B9C-A144-93B3A9DE18B0}|Console text\\Console text.vcxproj|solutionrelative:Console text\\Console text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40B8716-7C70-4B9C-A144-93B3A9DE18B0}|Console text\\Console text.vcxproj|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\Console text\\parser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E40B8716-7C70-4B9C-A144-93B3A9DE18B0}|Console text\\Console text.vcxproj|solutionrelative:Console text\\parser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|solutionrelative:c pulsplus project\\lecture8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\c pulsplus project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DB15198-5D14-4ED3-9CD2-33E96175BB8A}|c pulsplus project\\c pulsplus project.vcxproj|solutionrelative:c pulsplus project\\c pulsplus project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zaqxs\\AppData\\Local\\Temp\\c729777e-9ba9-45e0-b8cf-0a135de5934d_CPlusPlusStudy-main (2).zip.34d\\CPlusPlusStudy-main\\CplusplusProject\\lecture8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40B8716-7C70-4B9C-A144-93B3A9DE18B0}|Console text\\Console text.vcxproj|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\Console text\\gamecore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E40B8716-7C70-4B9C-A144-93B3A9DE18B0}|Console text\\Console text.vcxproj|solutionrelative:Console text\\gamecore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E40B8716-7C70-4B9C-A144-93B3A9DE18B0}|Console text\\Console text.vcxproj|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\Console text\\gamecore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E40B8716-7C70-4B9C-A144-93B3A9DE18B0}|Console text\\Console text.vcxproj|solutionrelative:Console text\\gamecore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\Console text\\pser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Console text\\pser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\Console text\\pser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Console text\\pser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameObjects.h",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\AppData\\Local\\Temp\\daeb5acd-1c5c-4895-a160-29ad1f5c6467_CPlusPlusStudy-main (4).zip.467\\CPlusPlusStudy-main\\RPGBattleSystem\\GameObjects.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\daeb5acd-1c5c-4895-a160-29ad1f5c6467_CPlusPlusStudy-main (4).zip.467\\CPlusPlusStudy-main\\RPGBattleSystem\\GameObjects.h",
+              "ToolTip": "C:\\Users\\zaqxs\\AppData\\Local\\Temp\\daeb5acd-1c5c-4895-a160-29ad1f5c6467_CPlusPlusStudy-main (4).zip.467\\CPlusPlusStudy-main\\RPGBattleSystem\\GameObjects.h [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\daeb5acd-1c5c-4895-a160-29ad1f5c6467_CPlusPlusStudy-main (4).zip.467\\CPlusPlusStudy-main\\RPGBattleSystem\\GameObjects.h [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T13:37:47.223Z",
+              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lectures.h",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lectures.h",
+              "RelativeDocumentMoniker": "c pulsplus project\\lectures.h",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lectures.h",
+              "RelativeToolTip": "c pulsplus project\\lectures.h",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-08T07:25:31.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameObjects.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\AppData\\Local\\Temp\\9f7d2492-f69c-428b-9587-27849ef4da68_CPlusPlusStudy-main (4).zip.a68\\CPlusPlusStudy-main\\RPGBattleSystem\\GameObjects.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\9f7d2492-f69c-428b-9587-27849ef4da68_CPlusPlusStudy-main (4).zip.a68\\CPlusPlusStudy-main\\RPGBattleSystem\\GameObjects.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\AppData\\Local\\Temp\\9f7d2492-f69c-428b-9587-27849ef4da68_CPlusPlusStudy-main (4).zip.a68\\CPlusPlusStudy-main\\RPGBattleSystem\\GameObjects.cpp [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\9f7d2492-f69c-428b-9587-27849ef4da68_CPlusPlusStudy-main (4).zip.a68\\CPlusPlusStudy-main\\RPGBattleSystem\\GameObjects.cpp [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T13:37:46.855Z",
+              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\AppData\\Local\\Temp\\f0b60445-7d0b-4dc0-9eaf-abeb0827a76c_CPlusPlusStudy-main (4).zip.76c\\CPlusPlusStudy-main\\RPGBattleSystem\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\f0b60445-7d0b-4dc0-9eaf-abeb0827a76c_CPlusPlusStudy-main (4).zip.76c\\CPlusPlusStudy-main\\RPGBattleSystem\\main.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\AppData\\Local\\Temp\\f0b60445-7d0b-4dc0-9eaf-abeb0827a76c_CPlusPlusStudy-main (4).zip.76c\\CPlusPlusStudy-main\\RPGBattleSystem\\main.cpp [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\f0b60445-7d0b-4dc0-9eaf-abeb0827a76c_CPlusPlusStudy-main (4).zip.76c\\CPlusPlusStudy-main\\RPGBattleSystem\\main.cpp [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T13:37:46.252Z",
+              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lecture13.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\AppData\\Local\\Temp\\34d7e33c-3d05-4004-ac6f-3277a9ea833b_CPlusPlusStudy-main (4).zip.33b\\CPlusPlusStudy-main\\CplusplusProject\\lecture13.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\34d7e33c-3d05-4004-ac6f-3277a9ea833b_CPlusPlusStudy-main (4).zip.33b\\CPlusPlusStudy-main\\CplusplusProject\\lecture13.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\AppData\\Local\\Temp\\34d7e33c-3d05-4004-ac6f-3277a9ea833b_CPlusPlusStudy-main (4).zip.33b\\CPlusPlusStudy-main\\CplusplusProject\\lecture13.cpp [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\34d7e33c-3d05-4004-ac6f-3277a9ea833b_CPlusPlusStudy-main (4).zip.33b\\CPlusPlusStudy-main\\CplusplusProject\\lecture13.cpp [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T13:39:06.314Z",
+              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "lecture10.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\AppData\\Local\\Temp\\3940d701-8688-4685-9015-8aae3e2e6078_CPlusPlusStudy-main (4).zip.078\\CPlusPlusStudy-main\\CplusplusProject\\lecture10.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\3940d701-8688-4685-9015-8aae3e2e6078_CPlusPlusStudy-main (4).zip.078\\CPlusPlusStudy-main\\CplusplusProject\\lecture10.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\AppData\\Local\\Temp\\3940d701-8688-4685-9015-8aae3e2e6078_CPlusPlusStudy-main (4).zip.078\\CPlusPlusStudy-main\\CplusplusProject\\lecture10.cpp [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\3940d701-8688-4685-9015-8aae3e2e6078_CPlusPlusStudy-main (4).zip.078\\CPlusPlusStudy-main\\CplusplusProject\\lecture10.cpp [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAAALgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T13:39:06.573Z",
+              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "lecture11.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\AppData\\Local\\Temp\\c0bebcfb-9d11-4a6d-839c-3ed927b797a0_CPlusPlusStudy-main (4).zip.7a0\\CPlusPlusStudy-main\\CplusplusProject\\lecture11.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\c0bebcfb-9d11-4a6d-839c-3ed927b797a0_CPlusPlusStudy-main (4).zip.7a0\\CPlusPlusStudy-main\\CplusplusProject\\lecture11.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\AppData\\Local\\Temp\\c0bebcfb-9d11-4a6d-839c-3ed927b797a0_CPlusPlusStudy-main (4).zip.7a0\\CPlusPlusStudy-main\\CplusplusProject\\lecture11.cpp [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\c0bebcfb-9d11-4a6d-839c-3ed927b797a0_CPlusPlusStudy-main (4).zip.7a0\\CPlusPlusStudy-main\\CplusplusProject\\lecture11.cpp [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAkwL8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T13:39:06.804Z",
+              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "lecture12.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\AppData\\Local\\Temp\\4ab1b377-6083-4977-b9cd-131da4f415b3_CPlusPlusStudy-main (4).zip.5b3\\CPlusPlusStudy-main\\CplusplusProject\\lecture12.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\4ab1b377-6083-4977-b9cd-131da4f415b3_CPlusPlusStudy-main (4).zip.5b3\\CPlusPlusStudy-main\\CplusplusProject\\lecture12.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\AppData\\Local\\Temp\\4ab1b377-6083-4977-b9cd-131da4f415b3_CPlusPlusStudy-main (4).zip.5b3\\CPlusPlusStudy-main\\CplusplusProject\\lecture12.cpp [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\4ab1b377-6083-4977-b9cd-131da4f415b3_CPlusPlusStudy-main (4).zip.5b3\\CPlusPlusStudy-main\\CplusplusProject\\lecture12.cpp [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAKYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T13:39:07.044Z",
+              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "lecture9.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\AppData\\Local\\Temp\\8b4892d4-b4ac-4fa3-86bb-618fa150d26e_CPlusPlusStudy-main (3).zip.26e\\CPlusPlusStudy-main\\CplusplusProject\\lecture9.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\8b4892d4-b4ac-4fa3-86bb-618fa150d26e_CPlusPlusStudy-main (3).zip.26e\\CPlusPlusStudy-main\\CplusplusProject\\lecture9.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\AppData\\Local\\Temp\\8b4892d4-b4ac-4fa3-86bb-618fa150d26e_CPlusPlusStudy-main (3).zip.26e\\CPlusPlusStudy-main\\CplusplusProject\\lecture9.cpp [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\8b4892d4-b4ac-4fa3-86bb-618fa150d26e_CPlusPlusStudy-main (3).zip.26e\\CPlusPlusStudy-main\\CplusplusProject\\lecture9.cpp [\uC77D\uAE30 \uC804\uC6A9]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-26T07:03:23.327Z",
+              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "lecture8.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\AppData\\Local\\Temp\\c729777e-9ba9-45e0-b8cf-0a135de5934d_CPlusPlusStudy-main (2).zip.34d\\CPlusPlusStudy-main\\CplusplusProject\\lecture8.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\c729777e-9ba9-45e0-b8cf-0a135de5934d_CPlusPlusStudy-main (2).zip.34d\\CPlusPlusStudy-main\\CplusplusProject\\lecture8.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\AppData\\Local\\Temp\\c729777e-9ba9-45e0-b8cf-0a135de5934d_CPlusPlusStudy-main (2).zip.34d\\CPlusPlusStudy-main\\CplusplusProject\\lecture8.cpp [\uC77D\uAE30 \uC804\uC6A9]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\c729777e-9ba9-45e0-b8cf-0a135de5934d_CPlusPlusStudy-main (2).zip.34d\\CPlusPlusStudy-main\\CplusplusProject\\lecture8.cpp [\uC77D\uAE30 \uC804\uC6A9]",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAAAA4BAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-23T06:58:03.276Z",
+              "EditorCaption": " [\uC77D\uAE30 \uC804\uC6A9]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\RPG battle system\\main.cpp",
+              "RelativeDocumentMoniker": "RPG battle system\\main.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\RPG battle system\\main.cpp",
+              "RelativeToolTip": "RPG battle system\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T13:57:55.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameObject.h",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\RPG battle system\\GameObject.h",
+              "RelativeDocumentMoniker": "RPG battle system\\GameObject.h",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\RPG battle system\\GameObject.h",
+              "RelativeToolTip": "RPG battle system\\GameObject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T13:56:25.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RPG battle system.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\RPG battle system\\RPG battle system.cpp",
+              "RelativeDocumentMoniker": "RPG battle system\\RPG battle system.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\RPG battle system\\RPG battle system.cpp",
+              "RelativeToolTip": "RPG battle system\\RPG battle system.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T13:53:27.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game Object.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\RPG battle system\\Game Object.cpp",
+              "RelativeDocumentMoniker": "RPG battle system\\Game Object.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\RPG battle system\\Game Object.cpp",
+              "RelativeToolTip": "RPG battle system\\Game Object.cpp",
+              "ViewState": "AQIAADUAAAAAAAAAAAAkwGEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T13:55:20.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "lecture13.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture13.cpp",
+              "RelativeDocumentMoniker": "c pulsplus project\\lecture13.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture13.cpp",
+              "RelativeToolTip": "c pulsplus project\\lecture13.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T13:40:31.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "lecture12.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture12.cpp",
+              "RelativeDocumentMoniker": "c pulsplus project\\lecture12.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture12.cpp",
+              "RelativeToolTip": "c pulsplus project\\lecture12.cpp",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAkwKYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T13:40:20.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "lecture10.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture10.cpp",
+              "RelativeDocumentMoniker": "c pulsplus project\\lecture10.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture10.cpp",
+              "RelativeToolTip": "c pulsplus project\\lecture10.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T13:39:37.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "lectures.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lectures.cpp",
+              "RelativeDocumentMoniker": "c pulsplus project\\lectures.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lectures.cpp",
+              "RelativeToolTip": "c pulsplus project\\lectures.cpp",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAqwLEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T07:28:21.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "lecture11.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture11.cpp",
+              "RelativeDocumentMoniker": "c pulsplus project\\lecture11.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture11.cpp",
+              "RelativeToolTip": "c pulsplus project\\lecture11.cpp",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAkwL8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T13:40:00.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "lecture9.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture9.cpp",
+              "RelativeDocumentMoniker": "c pulsplus project\\lecture9.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture9.cpp",
+              "RelativeToolTip": "c pulsplus project\\lecture9.cpp",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAkwHEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-23T07:04:27.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "parser.h",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\Console text\\parser.h",
+              "RelativeDocumentMoniker": "Console text\\parser.h",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\Console text\\parser.h",
+              "RelativeToolTip": "Console text\\parser.h",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-23T07:11:19.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "lecture8.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture8.cpp",
+              "RelativeDocumentMoniker": "c pulsplus project\\lecture8.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture8.cpp",
+              "RelativeToolTip": "c pulsplus project\\lecture8.cpp",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-23T06:58:21.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "lecture5.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture5.cpp",
+              "RelativeDocumentMoniker": "c pulsplus project\\lecture5.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\lecture5.cpp",
+              "RelativeToolTip": "c pulsplus project\\lecture5.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwDkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-14T07:03:31.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Console text.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\Console text\\Console text.cpp",
+              "RelativeDocumentMoniker": "Console text\\Console text.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\Console text\\Console text.cpp",
+              "RelativeToolTip": "Console text\\Console text.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-20T07:02:53.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "c pulsplus project.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\c pulsplus project.cpp",
+              "RelativeDocumentMoniker": "c pulsplus project\\c pulsplus project.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\c pulsplus project\\c pulsplus project.cpp",
+              "RelativeToolTip": "c pulsplus project\\c pulsplus project.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-08T07:09:09.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "pser.h",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\Console text\\pser.h",
+              "RelativeDocumentMoniker": "Console text\\pser.h",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\Console text\\pser.h",
+              "RelativeToolTip": "Console text\\pser.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-20T07:21:49.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "gamecore.h",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\Console text\\gamecore.h",
+              "RelativeDocumentMoniker": "Console text\\gamecore.h",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\Console text\\gamecore.h",
+              "RelativeToolTip": "Console text\\gamecore.h",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAjwC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-20T08:07:38.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "gamecore.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\Console text\\gamecore.cpp",
+              "RelativeDocumentMoniker": "Console text\\gamecore.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\Console text\\gamecore.cpp",
+              "RelativeToolTip": "Console text\\gamecore.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T07:40:05.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "pser.cpp",
+              "DocumentMoniker": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\Console text\\pser.cpp",
+              "RelativeDocumentMoniker": "Console text\\pser.cpp",
+              "ToolTip": "C:\\Users\\zaqxs\\source\\repos\\c pulsplus project\\Console text\\pser.cpp",
+              "RelativeToolTip": "Console text\\pser.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T07:13:39.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
