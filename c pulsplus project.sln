@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Console text", "Console tex
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RPG battle system", "RPG battle system\RPG battle system.vcxproj", "{4F3A9E65-B7AC-421F-936D-E312910EBBE7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tick tae toc", "tick tae toc\tick tae toc.vcxproj", "{D2F6CAD7-0781-44D2-B831-462E8E39F5B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{4F3A9E65-B7AC-421F-936D-E312910EBBE7}.Release|x64.Build.0 = Release|x64
 		{4F3A9E65-B7AC-421F-936D-E312910EBBE7}.Release|x86.ActiveCfg = Release|Win32
 		{4F3A9E65-B7AC-421F-936D-E312910EBBE7}.Release|x86.Build.0 = Release|Win32
+		{D2F6CAD7-0781-44D2-B831-462E8E39F5B8}.Debug|x64.ActiveCfg = Debug|x64
+		{D2F6CAD7-0781-44D2-B831-462E8E39F5B8}.Debug|x64.Build.0 = Debug|x64
+		{D2F6CAD7-0781-44D2-B831-462E8E39F5B8}.Debug|x86.ActiveCfg = Debug|Win32
+		{D2F6CAD7-0781-44D2-B831-462E8E39F5B8}.Debug|x86.Build.0 = Debug|Win32
+		{D2F6CAD7-0781-44D2-B831-462E8E39F5B8}.Release|x64.ActiveCfg = Release|x64
+		{D2F6CAD7-0781-44D2-B831-462E8E39F5B8}.Release|x64.Build.0 = Release|x64
+		{D2F6CAD7-0781-44D2-B831-462E8E39F5B8}.Release|x86.ActiveCfg = Release|Win32
+		{D2F6CAD7-0781-44D2-B831-462E8E39F5B8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
